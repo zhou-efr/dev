@@ -9,9 +9,9 @@ const config: Config = {
   theme: {
     extend: {
       colors: {
-        darkgray: '#143649',
-        lightgray: '#C9DDE9',
-        verylightgray: '#FFFFFF',
+        darkgray: '#292929',
+        lightgray: '#C4C3C3',
+        verylightgray: '#E9E9E9',
       }
     },
   },
